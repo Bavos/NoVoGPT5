@@ -1,0 +1,32 @@
+{
+  "scene1": {
+    "title": "GPT-5.5 chegou",
+    "subtitle": "Mais inteligência, velocidade e autonomia",
+    "narration": "A nova geração de IA da OpenAI promete mais inteligência, mais velocidade e mais autonomia."
+  },
+  "scene2": {
+    "title": "Mais raciocínio",
+    "subtitle": "Menos desperdício",
+    "narration": "O GPT-5.5 entende melhor o objetivo e resolve tarefas complexas com mais eficiência."
+  },
+  "scene3": {
+    "title": "Mais forte em programação",
+    "subtitle": "Codex, GitHub e automação",
+    "narration": "No Codex, ele ajuda a corrigir erros, organizar projetos, revisar código e automatizar entregas."
+  },
+  "scene4": {
+    "title": "IA com ferramentas",
+    "subtitle": "Arquivos, sistemas e pesquisas",
+    "narration": "Ele usa melhor ferramentas, arquivos e sistemas para concluir tarefas com mais precisão."
+  },
+  "scene5": {
+    "title": "Projetos reais",
+    "subtitle": "Remotion + GitHub + vídeo automático",
+    "narration": "Com Remotion e GitHub, ideias podem virar vídeos automatizados e profissionais."
+  },
+  "scene6": {
+    "title": "Menos comando. Mais resultado.",
+    "subtitle": "GPT-5.5 eleva o trabalho com IA",
+    "narration": "A IA fica mais próxima de um assistente técnico completo."
+  }
+}
