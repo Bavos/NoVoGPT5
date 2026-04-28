@@ -1,9 +1,5 @@
 import React from "react";
-import {
-  AbsoluteFill,
-  Composition,
-  Sequence
-} from "remotion";
+import {AbsoluteFill, Composition, Sequence} from "remotion";
 import sceneData from "../data/sceneData.json";
 import {Scene1} from "./components/Scene1";
 import {Scene2} from "./components/Scene2";

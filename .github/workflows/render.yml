@@ -27,7 +27,7 @@ jobs:
       - name: Render MP4
         run: |
           mkdir -p out
-          npm run render
+          npx remotion render src/index.ts GPT55Launch out/video.mp4 --codec=h264
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
