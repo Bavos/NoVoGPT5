@@ -1,32 +1,38 @@
 {
   "scene1": {
     "title": "GPT-5.5 chegou",
-    "subtitle": "Mais inteligência, velocidade e autonomia",
-    "narration": "A nova geração de IA da OpenAI promete mais inteligência, mais velocidade e mais autonomia."
+    "subtitle": "A nova geração da inteligência artificial",
+    "mainText": "Mais inteligência, mais velocidade e mais autonomia para criar, programar e automatizar.",
+    "futureNarration": "A nova geração de IA da OpenAI promete mais inteligência, mais velocidade e mais autonomia."
   },
   "scene2": {
     "title": "Mais raciocínio",
     "subtitle": "Menos desperdício",
-    "narration": "O GPT-5.5 entende melhor o objetivo e resolve tarefas complexas com mais eficiência."
+    "mainText": "O GPT-5.5 entende melhor o objetivo e resolve tarefas complexas com mais eficiência.",
+    "futureNarration": "O GPT-5.5 entende melhor o objetivo e resolve tarefas complexas usando menos esforço."
   },
   "scene3": {
     "title": "Mais forte em programação",
     "subtitle": "Codex, GitHub e automação",
-    "narration": "No Codex, ele ajuda a corrigir erros, organizar projetos, revisar código e automatizar entregas."
+    "mainText": "Ele ajuda a corrigir erros, organizar projetos, revisar código e automatizar entregas.",
+    "futureNarration": "No Codex, ele ajuda a corrigir erros, organizar projetos, revisar código e automatizar entregas."
   },
   "scene4": {
     "title": "IA com ferramentas",
     "subtitle": "Arquivos, sistemas e pesquisas",
-    "narration": "Ele usa melhor ferramentas, arquivos e sistemas para concluir tarefas com mais precisão."
+    "mainText": "O modelo trabalha melhor com ferramentas, arquivos e sistemas para concluir tarefas com precisão.",
+    "futureNarration": "Ele usa melhor ferramentas, arquivos e sistemas para concluir tarefas com mais precisão."
   },
   "scene5": {
     "title": "Projetos reais",
     "subtitle": "Remotion + GitHub + vídeo automático",
-    "narration": "Com Remotion e GitHub, ideias podem virar vídeos automatizados e profissionais."
+    "mainText": "Ideias podem virar vídeos automatizados, renderizados em MP4 e prontos para download.",
+    "futureNarration": "Com Remotion e GitHub, ideias podem virar vídeos automatizados e profissionais."
   },
   "scene6": {
     "title": "Menos comando. Mais resultado.",
     "subtitle": "GPT-5.5 eleva o trabalho com IA",
-    "narration": "A IA fica mais próxima de um assistente técnico completo."
+    "mainText": "A IA fica mais próxima de um assistente técnico completo para criar, testar e entregar.",
+    "futureNarration": "A IA fica mais próxima de um assistente técnico completo."
   }
 }

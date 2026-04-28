@@ -4,8 +4,8 @@
   "private": true,
   "description": "Vídeo GPT-5.5 com Remotion, React e TypeScript",
   "scripts": {
-    "start": "remotion studio",
-    "render": "remotion render src/index.ts GPT55Launch out/video.mp4 --codec=h264",
+    "start": "remotion studio remotion/index.ts",
+    "build": "remotion render remotion/index.ts GPT55Video out/gpt55-video.mp4 --codec=h264",
     "typecheck": "tsc --noEmit"
   },
   "engines": {
