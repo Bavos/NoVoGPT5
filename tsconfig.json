@@ -1,15 +1,21 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "lib": ["DOM", "ES2022"],
+    "lib": [
+      "DOM",
+      "ES2022"
+    ],
     "jsx": "react-jsx",
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "strict": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "noEmit": true,
-    "types": ["node"]
+    "noEmit": true
   },
-  "include": ["src", "data", "remotion.config.ts"]
+  "include": [
+    "remotion",
+    "data",
+    "remotion.config.ts"
+  ]
 }
