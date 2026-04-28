@@ -1,24 +1,19 @@
 {
-  "name": "novogpt5-video",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Vídeo GPT-5.5 com Remotion, React e TypeScript",
   "scripts": {
     "start": "remotion studio remotion/index.ts",
-    "build": "remotion render remotion/index.ts GPT55Video out/gpt55-video.mp4 --codec=h264",
+    "build": "remotion render remotion/index.ts GPT55Video out/gpt55-video.mp4 --codec=h264 --pixel-format=yuv420p --overwrite",
     "typecheck": "tsc --noEmit"
   },
-  "engines": {
-    "node": ">=20"
-  },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "remotion": "^4.0.340"
+    "remotion": "4.0.366",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "typescript": "^5.6.3"
+    "@remotion/cli": "4.0.366",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.4.0"
   }
 }
